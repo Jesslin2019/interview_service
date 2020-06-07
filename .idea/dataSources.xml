@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="interview@192.168.56.1" uuid="39b024f1-4363-4d09-93a4-50c80fc2482c">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.56.1:3306/interview</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="db" uuid="9a027fa0-02cc-4584-bd59-16c1490881ba">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\weiyi\Desktop\interview_project\db.sqlite3</jdbc-url>
+    </data-source>
+  </component>
+</project>
